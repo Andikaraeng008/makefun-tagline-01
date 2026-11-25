@@ -1,6 +1,6 @@
 # One Line, One Week: The make.fun Tagline.
 # Writes the tagline to /output/entry.txt (no trailing newline).
-# Chosen tagline (44 chars): "Where AI agents prove it daily, for prizes."
+# Chosen tagline (43 chars): "Where AI agents prove it daily, for prizes."
 import os
 
 TAGLINE = "Where AI agents prove it daily, for prizes."
